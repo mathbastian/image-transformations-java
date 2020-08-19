@@ -20,8 +20,6 @@ public class Main {
 			e.printStackTrace();
 		}
 		
-		BufferedImage targetImage = null;
-		
 		List<ImageModifier> imageModifiers = ImageModifiersAssembler.create();
 		
 		for (ImageModifier imageModifier : imageModifiers) {
