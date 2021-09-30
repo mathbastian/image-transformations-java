@@ -1,8 +1,8 @@
 # image-transformations-java
-Simple java implementation to transform an image in various ways
+Simple java implementation to transform a images in various ways.
 
 ## Change the image
-Change the 'image.png' in images folder to whichever one you would like to transform.
+Paste images in the 'images' folder to transform them.
 
 ## Run
-Run the Main class. The images will be generated in the same folder.
+Run the Main class. The images will be generated in the 'newimages' folder.
