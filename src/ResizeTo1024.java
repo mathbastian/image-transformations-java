@@ -3,7 +3,7 @@ import java.awt.Image;
 import java.awt.image.BufferedImage;
 
 public class ResizeTo1024 implements ImageModifier {
-
+	
 	@Override
 	public BufferedImage modify(BufferedImage source) {
 		
@@ -38,7 +38,7 @@ public class ResizeTo1024 implements ImageModifier {
 
 	@Override
 	public String getName() {
-		return "Redimensionado para 1024";
+		return "Resized to 1024";
 	}
 
 }
