@@ -1,5 +1,5 @@
 # image-transformations-java
-Simple java implementation to transform a images in various ways.
+Simple java implementation to transform images in various ways.
 
 ## Change the image
 Paste images in the 'images' folder to transform them.
